@@ -12,6 +12,7 @@ I have strong verbal and written English. I'm sure, we're not wasting each other
 
 **Contact me**
 
+<a href="https://www.linkedin.com/in/denys-bezverkhyi-80a79b266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denys-bezverkhyi-80a79b266/" height="20" width="20" /></a> &nbsp; <a href="https://www.upwork.com/freelancers/~0182116cc42c5fde78/" target="blank">UPWORK</a>
 
 
 **Languages and Tools**
