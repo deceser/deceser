@@ -5,7 +5,7 @@
 
 **About me**
 
-I'm a talented JavaScript Developer with 2+ years of commercial experience. <br/> 
+I'm a talented JavaScript Developer with 4+ years of commercial experience. <br/> 
 I have been working relentlessly to help my skills so that customers' ideas are met and turned into working and successful applications.
 During my career, I build Responsive, Fully Functional web apps with are user-friendly. <br/> 
 I have strong verbal and written English. I'm sure, we're not wasting each other's time!
